@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "theme": "stackoverflow"
+  },
   "basics": {
     "name": "Koen Neijenhuijs, Ph.D",
     "label": "Senior Data Scientist bij HumanTotalCare",
