@@ -1,0 +1,300 @@
+{
+  "basics": {
+    "name": "Koen Neijenhuijs, Ph.D",
+    "label": "Senior Data Scientist bij HumanTotalCare",
+    "image": "",
+    "email": "k.neijenhuijs@gmail.com",
+    "phone": "0638541433",
+    "url": "",
+    "summary": "Ik ben opgeleid als wetenschapper in de psychologie waarin ik me heb gespecialiseerd in geavanceerde analyse-technieken van grote datasets verzameld door digitale tools. Mijn ervaring is gefocussed op (bayesiaanse) statistiek, machine learning, en visualisatie.\n\nAls data scientist is het voor mij belangrijk om een concrete en positieve impact te hebben op de processen van mijn werkgever. Om dit te bewerkstelligen staan een goede voorbereiding en zorgvuldig werken hoog bij mij in het vaandel. Ik ben erg leergierig, leer snel en zelfstandig. Collega's hebben mij omschreven als: probleem-oplossend, zorgvuldig, en efficiënt.",
+    "location": {
+      "countryCode": "NL",
+      "address": "Capelle aan den IJssel"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "koenneijenhuijs",
+        "url": "https://www.linkedin.com/in/koenneijenhuijs/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "HumanTotalCare",
+      "position": "Data Scientist",
+      "startDate": "2021-03-31",
+      "endDate": "",
+      "highlights": ["Data Strategie ontwikkeld en geimplementeerd", "Proces opgesteld om in-house data professionals als consultant in te zetten op interne projecten", "Datagedreven ontwikkelingen rondom proces-optimalisatie en verzuim-voorspelling"],
+      "summary": "Bij HumanTotalCare beoogt het Research & Development team meer te betekenen door het ontwikkelen en implementeren van wetenschap- en data-gedreven oplossingen.\n\nAls Data Scientist ben ik verantwoordelijk voor en werk ik mee aan o.a.:\n\n- Ontwikkeling van Machine Learning modellen/producten ter behoeve van (i) gepersonaliseerde gezondheidsvragenlijsten, (ii) data-gedreven beslisondersteuning van gezondheids-professionals, en (iii) voorspelling en verklaring van toekomstig ziekteverzuim\n- Ontwikkeling en implementatie van verscheidene procesmatige verbeteringen, zoals (i) een organisatie-overschrijdende data strategie, (ii) de Data Science roadmap, en (iii) efficiënte werkprocessen van het Data Science team\n- Het onderhouden van datagedreven producten in productie, waaronder (i) het retrainen van modellen, (ii) het onderhouden van data-stromen, en (iii) het toevoegen van nieuwe datastromen aan bestaande pipelines\n- Begeleiden van junior-collega's in hun ontwikkeltraject\n- Ontwikkeling en implementatie van een Data Academy die zich richt op het verbeteren van datageletterdheid en bewustzijn in de organisatie\n- Het uitzoeken van behoeften in de business waar we met data-gedreven oplossingen de meeste waarde kunnen toevoegen",
+      "url": "https://www.linkedin.com/company/humantotalcare/",
+      "location": "Utrecht, Nederland"
+    },
+    {
+      "name": "Achmea",
+      "position": "Senior Data-analist (via Ordina)",
+      "startDate": "2020-07-31",
+      "endDate": "2021-03-31",
+      "highlights": [],
+      "summary": "De relatief jonge afdeling Business Support bestond uit een data-analisten die rapportages opstelden ter behoeve van sturing voor het management van verschillende afdelingen verspreid over de labels van Achmea.\n\nAls Senior Data-analist was ik verantwoordelijk voor:\n\n- Het in kaart brengen op welke manier de verscheidene interne data-bronnen ingezet kunnen worden om de meeste waarde te creëren voor de verschillende afdelingen. \n- Het opzetten van een future-proof infrastructuur waar Business Support de komende jaren geautomatiseerde rapporten en dashboards mee kan creëren. \n- Het ontwikkelen van structurele informatieproducten in de vorm van o.a. dashboards en forecasting-modellen.\n- Het overdragen van kennis aan en het coachen van minder ervaren collega's door o.a. te helpen met het inplannen van hun opleidingstrajecten en pro-actief advies geven over werkzaamheden.",
+      "url": "https://www.linkedin.com/company/achmea/"
+    },
+    {
+      "name": "Ordina",
+      "position": "Data Science Consultant",
+      "startDate": "2020-01-31",
+      "endDate": "2021-03-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/ordina/",
+      "location": "Utrecht en omgeving, Nederland"
+    },
+    {
+      "name": "Vrije Universiteit Amsterdam",
+      "position": "Data Scientist (Doctoraal)",
+      "startDate": "2015-08-31",
+      "endDate": "2019-08-31",
+      "highlights": [],
+      "summary": "Primaire verantwoordelijkheden:\n- Het bouwen van een database-oplossing, het opschonen en het transformeren van big data geproduceerd door een eHealth applicatie\n- Creatie van geautomatiseerde wekelijkse gegevensrapporten\n- Verkenning van het gebruik van verschillende machine learning-algoritmen van routinematig verzamelde eHealth-gegevens\n- Onderzoek naar psychometrische eigenschappen van door patiënten gerapporteerde maatregelen die worden gebruikt in eHealth\n- Onderzoek naar de mogelijkheden en beperkingen met betrekking tot de toepassing van machine learning algoritmen op gegevens die zijn verzameld met behulp van door patiënten gerapporteerde maatregelen die worden gebruikt in e-gezondheid\n- Data-analytics consultant voor meerdere onderzoeksprojecten van War Child\n\nSecundaire verantwoordelijkheden:\n- Gedeeld voorzitter van PhD meetings\n- Statistisch adviseur bij de afdeling Klinische Psychologie\n\nMijn volledige proefschrift is te vinden op: https://kneijenhuijs.com/assets/dissertation.pdf",
+      "url": "https://www.linkedin.com/school/vrije-universiteit-amsterdam/",
+      "location": "Amsterdam en omgeving, Nederland"
+    },
+    {
+      "name": "Behavioural Science Institute, Radboud University Nijmegen",
+      "position": "Stagiair onderzoek",
+      "startDate": "2014-09-30",
+      "endDate": "2015-07-31",
+      "highlights": [],
+      "summary": "Onderzoeksstagiair bij de laboratoriumgroep Experimentele Psychopathologie & Affectieve Neurowetenschappen van het Behavioral Science Institute en het Donders Institute for Brain, Cognition and Behavior, Center for Cognitive Neuroimaging.\n\nFocus van de stage is besluitvorming bij adolescenten, begeleiders: Bernd Figner en Karin Roelofs. Mijn resulterende masterthesis is hier beschikbaar.",
+      "url": "https://www.linkedin.com/company/behavioural-science-institute-radboud-university-nijmegen/"
+    },
+    {
+      "name": "Radboud University",
+      "position": "Scriptie Consultant",
+      "startDate": "2014-03-31",
+      "endDate": "2015-07-31",
+      "highlights": [],
+      "summary": "Bachelor- en masterstudenten consulteren bij vragen over onderzoeksmethodologie en statistische analyse mbt hun scriptie.",
+      "url": "https://www.linkedin.com/school/radboud-university-nijmegen/"
+    },
+    {
+      "name": "Radboud University",
+      "position": "Werkgroepbegeleider (Bachelor Psychologie)",
+      "startDate": "2012-09-30",
+      "endDate": "2015-07-31",
+      "highlights": [],
+      "summary": "Begeleiden en assisteren van studenten bij het volgen van bacheloropleidingen op universitair niveau (d.w.z. Methoden van Onderzoek (B1), Statistiek 2 (B2), Psychometrie en Besliskunde (B2) en Data-analyse (B2)).",
+      "url": "https://www.linkedin.com/school/radboud-university-nijmegen/"
+    },
+    {
+      "name": "Radboud University",
+      "position": "Onderzoeksassistant",
+      "startDate": "2012-11-30",
+      "endDate": "2013-06-30",
+      "highlights": [],
+      "summary": "Verzameling van gegevens voor gedragsonderzoek.",
+      "url": "https://www.linkedin.com/school/radboud-university-nijmegen/"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Saxion Hogeschool Deventer",
+      "area": "Toegepaste psychologie (Applied psychology)",
+      "studyType": "Propedeuse",
+      "startDate": "2007-12-31",
+      "endDate": "2008-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Radboud University",
+      "area": "Beyond the Frontiers",
+      "studyType": "Honours Academy Degree",
+      "startDate": "2014-12-31",
+      "endDate": "2015-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Radboud University",
+      "area": "Research: Behavioural Science",
+      "studyType": "Master's Degree (Research)",
+      "startDate": "2013-12-31",
+      "endDate": "2015-12-31",
+      "score": "Cum Laude",
+      "courses": []
+    },
+    {
+      "institution": "Radboud University",
+      "area": "Wider Implications of Neuroscience",
+      "studyType": "Honours Academy Degree",
+      "startDate": "2013-12-31",
+      "endDate": "2014-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "VU Amsterdam",
+      "area": "Klinische psychologie - eHealth en Data Science",
+      "studyType": "Doctor of Philosophy - PhD",
+      "startDate": "2015-12-31",
+      "endDate": "2020-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Radboud University Nijmegen",
+      "area": "Psychology",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2008-12-31",
+      "endDate": "2013-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Etty Hillesum Lyceum Deventer",
+      "area": "Culture and Society",
+      "studyType": "High School",
+      "startDate": "2002-12-31",
+      "endDate": "2007-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Grand Prize Winner R Shiny Contest 2020",
+      "date": "2020-07-31",
+      "awarder": "RStudio",
+      "summary": "De R Shiny contest uit 2020 van RStudio ontving 220 inzendingen. Samen met collega Tos Sambo heb ik de applicatie Datify geschreven. Deze applicatie geeft de mogelijkheid om verschillende artiesten te vergelijken met betrekking tot data van Spotify. Deze applicatie was één van de vijf Grand Prize winnaars. De applicatie is hier te bekijken: https://kneijenhuijs.shinyapps.io/Datify/. De aankondiging van de winnaars is hier te vinden: https://blog.rstudio.com/2020/07/13/winners-of-the-2nd-shiny-contest/."
+    },
+    {
+      "title": "Grant Consumer eHealth",
+      "date": "2017-01-31",
+      "awarder": "NFU / Citrien",
+      "summary": "Grant awarded by the NFU funded by the Citrienfund, for translating and validating the eHealth Impact Question for the Dutch population of eHealth users (eHIQ-NL). For more information on this project, see: \n\nhttps://www.nfu-ehealth.nl/projecten/alle-projecten/de-nederlandse-e-health-impact-questionnaire-ehiq/"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Scrum Master PSM-I",
+      "issuer": "Scrum.org",
+      "startDate": "2020-07-31",
+      "url": "https://www.scrum.org/certificates/555475"
+    }
+  ],
+  "publications": [
+    {
+      "name": "A systematic review of the measurement properties of the European Organisation for Research and Treatment of Cancer In-patient Satisfaction with Care Questionnaire, the EORTC IN-PATSAT32",
+      "publisher": "Supportive Care in Cancer",
+      "releaseDate": "2018-08-01",
+      "summary": "Purpose\nThe EORTC IN-PATSAT32 is a patient-reported outcome measure (PROM) to assess cancer patients’ satisfaction with in-patient health care. The aim of this study was to investigate whether the initial good measurement properties of the IN-PATSAT32 are confirmed in new studies.\n\nMethods\nWithin the scope of a larger systematic review study (Prospero ID 42017057237), a systematic search was performed of Embase, Medline, PsycINFO, and Web of Science for studies that investigated measurement properties of the IN-PATSAT32 up to July 2017. Study quality was assessed, data were extracted, and synthesized according to the COnsensus-based Standards for the selection of health Measurement INstruments (COSMIN) methodology.\n\nResults\nNine studies were included in this review. The evidence on reliability and construct validity were rated as sufficient and of the quality of the evidence as moderate. The evidence on structural validity was rated as insufficient and of low quality. The evidence on internal consistency was indeterminate. Measurement error, responsiveness, criterion validity, and cross-cultural validity were not reported in the included studies. Measurement error could be calculated for two studies and was judged indeterminate.\n\nConclusion\nIn summary, the IN-PATSAT32 performs as expected with respect to reliability and construct validity. No firm conclusions can be made yet whether the IN-PATSAT32 also performs as well with respect to structural validity and internal consistency. Further research on these measurement properties of the PROM is therefore needed as well as on measurement error, responsiveness, criterion validity, and cross-cultural validity. For future studies, it is recommended to take the COSMIN methodology into account.",
+      "url": "https://link.springer.com/article/10.1007/s00520-018-4243-9"
+    },
+    {
+      "name": "Mood mirroring with an embodied virtual agent: A pilot study on the relationship between personalized visual feedback and adherence",
+      "publisher": "International Conference on Practical Applications of Agents and Multi-Agent Systems",
+      "releaseDate": "2018-06-20",
+      "summary": "Human support is thought to increase adherence to internet-based interventions for common mental health disorders, but can be costly and reduce treatment accessibility. Embodied virtual agents may be used to deliver automated support, but while many solutions have been shown to be feasible, there is still little controlled research that empirically validates their clinical effectiveness in this context. This study uses a controlled and randomized paradigm to investigate whether feedback from an embodied virtual agent can increase adherence. In a three-week ecological momentary assessment smartphone study, 68 participants were asked to report their mood three times a day. An embodied virtual agent could mirror participant-reported mood states when thanking them for their answers. A two-stage randomization into a text and personalized visual feedback group, versus a text-only control group, was applied to control for individual differences (study onset) and feedback history (after two weeks). Results indicate that while personalized visual feedback did not increase adherence, it did manage to keep adherence constant over a three-week period, whereas fluctuations in adherence could be observed in the text-only control group. Although this was a pilot study, and its results should be interpreted with some caution, this paper shows how virtual agent feedback may have a stabilizing effect on adherence, how controlled experiments on the relationship between virtual agent support and clinically relevant measures such as adherence can be conducted, and how results may be analyzed.",
+      "url": "https://link.springer.com/chapter/10.1007%2F978-3-319-94779-2_3"
+    },
+    {
+      "name": "Response to Comment on \"Estimating the reproducibility of psychological science\"",
+      "publisher": "Science",
+      "releaseDate": "2016-03-04",
+      "summary": "Gilbert et al. conclude that evidence from the Open Science Collaboration’s Reproducibility Project: Psychology indicates high reproducibility, given the study methodology. Their very optimistic assessment is limited by statistical misconceptions and by causal inferences from selectively interpreted, correlational data. Using the Reproducibility Project: Psychology data, both optimistic and pessimistic conclusions about reproducibility are possible, and neither are yet warranted.",
+      "url": "http://science.sciencemag.org/content/351/6277/1037.3"
+    },
+    {
+      "name": "Estimating the reproducibility of psychological science",
+      "publisher": "Science",
+      "releaseDate": "2015-08-28",
+      "summary": "There is concern about the rate and predictors of reproducibility, but limited evidence. Potentially problematic practices include selective reporting, selective analysis, and insufficient specification of the conditions necessary or sufficient to obtain the results. Direct replication is the attempt to recreate the conditions believed sufficient for obtaining a previously observed finding and is the means of establishing reproducibility of a finding with new data. We conducted a large-scale, collaborative effort to obtain an initial estimate of the reproducibility of psychological science.",
+      "url": "http://www.sciencemag.org/content/349/6251/aac4716.short"
+    },
+    {
+      "name": "A Young Scientists’ Perspective on DBS: A Plea for an International DBS Organization",
+      "publisher": "Neuroethics: Volume 8, Issue 2, pp 187-190.",
+      "releaseDate": "2015-04-13",
+      "summary": "Our think tank tasked by the Dutch Health Council, consisting of Radboud University Nijmegen Honours Academy students with various backgrounds, investigated the implications of Deep Brain Stimulation (DBS) for psychiatric patients. During this investigation, a number of methodological, ethical and societal difficulties were identified. We consider these difficulties to be a reflection of a still fragmented field of research that can be overcome with improved organization and communication. To this effect, we suggest that it would be useful to found a centralized DBS organization. Such an organization makes it possible to 1) set up and maintain a repository, 2) facilitate DBS studies with a larger sample size, 3) improve communication amongst researchers, clinicians and ethical committees, and 4) improve communication between DBS experts and the public at large.",
+      "url": "http://link.springer.com/article/10.1007/s12152-015-9231-x"
+    },
+    {
+      "name": "Deep Brain Stimulation: Efficacy, Future Developments and Ethical Implications for Patients and Society",
+      "publisher": "Radboud Honours Academy",
+      "releaseDate": "2014-06-30",
+      "summary": "This report provides an overview of several implications of Deep Brain Stimulation\n(DBS) on psychiatric disorders for the individual and society at large. In this respect the\nfollowing topics are discussed: i) methodological worries about research on DBS, ii)\nethical concerns with regard to DBS for psychiatric patients (who should receive DBS,\ntransparency, personality changes and informed consent), iii) current issues with the\nscientific media and iv) societal impact of DBS in the future. It is concluded that to deal\nwith this large range of concerns an internationally-based organization should be\nestablished. By doing so; a broad view of the field can be maintained and several\nregulations can be applied.",
+      "url": "http://www.ru.nl/publish/pages/727230/ru_honours_science_-_wider_implications_of_cognitive_neuroscience_2014_lr.pdf"
+    },
+    {
+      "name": "A systematic review of the measurement properties of the Body Image Scale (BIS) in cancer patients",
+      "publisher": "Supportive Care in Cancer",
+      "releaseDate": "",
+      "summary": "Introduction\nBody image is acknowledged as an important aspect of health-related quality of life in cancer patients. The Body Image Scale (BIS) is a patient-reported outcome measure (PROM) to evaluate body image in cancer patients. The aim of this study was to systematically review measurement properties of the BIS among cancer patients.\n\nMethods\nA search in Embase, MEDLINE, PsycINFO, and Web of Science was performed to identify studies that investigated measurement properties of the BIS (Prospero ID 42017057237). Study quality was assessed (excellent, good, fair, poor), and data were extracted and analyzed according to the COnsensus-based Standards for the selection of health Measurement INstruments (COSMIN) methodology on structural validity, internal consistency, reliability, measurement error, hypothesis testing for construct validity, and responsiveness. Evidence was categorized into sufficient, insufficient, inconsistent, or indeterminate.\n\nResults\nNine studies were included. Evidence was sufficient for structural validity (one factor solution), internal consistency (α = 0.86–0.96), and reliability (r > 0.70); indeterminate for measurement error (information on minimal important change lacked) and responsiveness (increasing body image disturbance in only one study); and inconsistent for hypothesis testing (conflicting results). Quality of the evidence was moderate to low. No studies reported on cross-cultural validity.\n\nConclusion\nThe BIS is a PROM with good structural validity, internal consistency, and test-retest reliability, but good quality studies on the other measurement properties are needed to optimize evidence. It is recommended to include a wider variety of cancer diagnoses and treatment modalities in these future studies.",
+      "url": "https://link.springer.com/article/10.1007%2Fs00520-018-4145-x"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data-analyse",
+      "level": "Senior",
+      "keywords": [
+        "Data Visualisatie",
+        "Multivariate Statistiek",
+        "Bayesiaanse Statistiek",
+        "Mixed-effect Modelling"
+      ]
+    },
+        {
+      "name": "Data Science",
+      "level": "Senior",
+      "keywords": [
+        "Python",
+        "R",
+        "Machine Learning",
+        "scikit",
+        "git",
+        "Monte Carlo Simulaties",
+        "xgboost",
+        "Parameter Optimalisatie"
+      ]
+    },
+    {
+      "name": "Data Strategie",
+      "level": "Senior",
+      "keywords": []
+    },
+    {
+      "name": "Data Management",
+      "level": "Senior",
+      "keywords": []
+    },
+    {
+      "name": "Academisch & Technisch Schrijven",
+      "level": "Senior",
+      "keywords": []
+    },
+    {
+      "name": "Stakeholdermanagement",
+      "level": "Senior",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Nederlands",
+      "fluency": "Moedertaal"
+    },
+    {
+      "fluency": "Professioneel Vloeiend",
+      "language": "Engels"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
